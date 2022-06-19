@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mu-shan-er
 - 👀 I’m interested in hanghang
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on nobody
+- 💞️ I’m looking to collaborate on past master
 - 📫 reach me go with the flow
 
 <!---
